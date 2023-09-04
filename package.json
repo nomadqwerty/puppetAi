@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/nomadqwerty/puppetAi#readme",
   "dependencies": {
-    "puppeteer": "^20.2.0"
+    "@llama-node/llama-cpp": "^0.1.6",
+    "llama-node": "^0.1.6",
+    "puppeteer": "^20.2.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
 }
